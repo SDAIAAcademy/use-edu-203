@@ -1,0 +1,89 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 1080" width="1040" height="1080" font-family="sans-serif">
+<title>بطاقات التدريب: 12 بطاقة طائرات ورقية</title>
+<rect width="1040" height="1080" fill="#ffffff"/>
+<text x="520.0" y="44" text-anchor="middle" font-size="30" font-weight="bold" fill="#1b2a41">بطاقات التدريب</text>
+<rect x="778" y="78" width="234" height="314" rx="14" fill="#f7f5ef" stroke="#1b2a41" stroke-width="2"/>
+<text x="992" y="112" text-anchor="end" font-size="24" font-weight="bold" fill="#1b2a41">ت1</text>
+<polygon points="895,120 965,270 825,270" fill="#2f6fd0" stroke="#1b2a41" stroke-width="3"/>
+<line x1="872" y1="170" x2="918" y2="170" stroke="#ffffff" stroke-width="7"/>
+<line x1="848" y1="220" x2="942" y2="220" stroke="#ffffff" stroke-width="7"/>
+<text x="895" y="370" text-anchor="middle" font-size="26" font-weight="bold" fill="#b23a3a">لا تطير</text>
+<rect x="528" y="78" width="234" height="314" rx="14" fill="#f7f5ef" stroke="#1b2a41" stroke-width="2"/>
+<text x="742" y="112" text-anchor="end" font-size="24" font-weight="bold" fill="#1b2a41">ت2</text>
+<polygon points="645,120 715,270 575,270" fill="#e8b923" stroke="#1b2a41" stroke-width="3"/>
+<text x="645" y="370" text-anchor="middle" font-size="26" font-weight="bold" fill="#b23a3a">لا تطير</text>
+<rect x="278" y="78" width="234" height="314" rx="14" fill="#f7f5ef" stroke="#1b2a41" stroke-width="2"/>
+<text x="492" y="112" text-anchor="end" font-size="24" font-weight="bold" fill="#1b2a41">ت3</text>
+<polygon points="395,120 465,270 325,270" fill="#d64545" stroke="#1b2a41" stroke-width="3"/>
+<line x1="372" y1="170" x2="418" y2="170" stroke="#ffffff" stroke-width="7"/>
+<line x1="348" y1="220" x2="442" y2="220" stroke="#ffffff" stroke-width="7"/>
+<path d="M 395 270 q 22 18 0 36 q -22 18 0 36" fill="none" stroke="#1b2a41" stroke-width="3"/>
+<polygon points="383,281 407,295 407,281 383,295" fill="#1b2a41"/>
+<polygon points="383,317 407,331 407,317 383,331" fill="#1b2a41"/>
+<text x="395" y="370" text-anchor="middle" font-size="26" font-weight="bold" fill="#0f7b6c">تطير</text>
+<rect x="28" y="78" width="234" height="314" rx="14" fill="#f7f5ef" stroke="#1b2a41" stroke-width="2"/>
+<text x="242" y="112" text-anchor="end" font-size="24" font-weight="bold" fill="#1b2a41">ت4</text>
+<polygon points="145,120 207,195 145,270 83,195" fill="#e8b923" stroke="#1b2a41" stroke-width="3"/>
+<line x1="114" y1="157" x2="176" y2="157" stroke="#ffffff" stroke-width="7"/>
+<line x1="83" y1="195" x2="207" y2="195" stroke="#ffffff" stroke-width="7"/>
+<line x1="114" y1="232" x2="176" y2="232" stroke="#ffffff" stroke-width="7"/>
+<text x="145" y="370" text-anchor="middle" font-size="26" font-weight="bold" fill="#b23a3a">لا تطير</text>
+<rect x="778" y="408" width="234" height="314" rx="14" fill="#f7f5ef" stroke="#1b2a41" stroke-width="2"/>
+<text x="992" y="442" text-anchor="end" font-size="24" font-weight="bold" fill="#1b2a41">ت5</text>
+<polygon points="895,450 957,525 895,600 833,525" fill="#d64545" stroke="#1b2a41" stroke-width="3"/>
+<path d="M 895 600 q 22 18 0 36 q -22 18 0 36" fill="none" stroke="#1b2a41" stroke-width="3"/>
+<polygon points="883,611 907,625 907,611 883,625" fill="#1b2a41"/>
+<polygon points="883,647 907,661 907,647 883,661" fill="#1b2a41"/>
+<text x="895" y="700" text-anchor="middle" font-size="26" font-weight="bold" fill="#0f7b6c">تطير</text>
+<rect x="528" y="408" width="234" height="314" rx="14" fill="#f7f5ef" stroke="#1b2a41" stroke-width="2"/>
+<text x="742" y="442" text-anchor="end" font-size="24" font-weight="bold" fill="#1b2a41">ت6</text>
+<polygon points="645,450 707,525 645,600 583,525" fill="#d64545" stroke="#1b2a41" stroke-width="3"/>
+<line x1="614" y1="487" x2="676" y2="487" stroke="#ffffff" stroke-width="7"/>
+<line x1="583" y1="525" x2="707" y2="525" stroke="#ffffff" stroke-width="7"/>
+<line x1="614" y1="562" x2="676" y2="562" stroke="#ffffff" stroke-width="7"/>
+<path d="M 645 600 q 22 18 0 36 q -22 18 0 36" fill="none" stroke="#1b2a41" stroke-width="3"/>
+<polygon points="633,611 657,625 657,611 633,625" fill="#1b2a41"/>
+<polygon points="633,647 657,661 657,647 633,661" fill="#1b2a41"/>
+<text x="645" y="700" text-anchor="middle" font-size="26" font-weight="bold" fill="#0f7b6c">تطير</text>
+<rect x="278" y="408" width="234" height="314" rx="14" fill="#f7f5ef" stroke="#1b2a41" stroke-width="2"/>
+<text x="492" y="442" text-anchor="end" font-size="24" font-weight="bold" fill="#1b2a41">ت7</text>
+<polygon points="395,450 457,525 395,600 333,525" fill="#2f6fd0" stroke="#1b2a41" stroke-width="3"/>
+<line x1="364" y1="487" x2="426" y2="487" stroke="#ffffff" stroke-width="7"/>
+<line x1="333" y1="525" x2="457" y2="525" stroke="#ffffff" stroke-width="7"/>
+<line x1="364" y1="562" x2="426" y2="562" stroke="#ffffff" stroke-width="7"/>
+<text x="395" y="700" text-anchor="middle" font-size="26" font-weight="bold" fill="#b23a3a">لا تطير</text>
+<rect x="28" y="408" width="234" height="314" rx="14" fill="#f7f5ef" stroke="#1b2a41" stroke-width="2"/>
+<text x="242" y="442" text-anchor="end" font-size="24" font-weight="bold" fill="#1b2a41">ت8</text>
+<polygon points="145,450 207,525 145,600 83,525" fill="#2f6fd0" stroke="#1b2a41" stroke-width="3"/>
+<text x="145" y="700" text-anchor="middle" font-size="26" font-weight="bold" fill="#b23a3a">لا تطير</text>
+<rect x="778" y="738" width="234" height="314" rx="14" fill="#f7f5ef" stroke="#1b2a41" stroke-width="2"/>
+<text x="992" y="772" text-anchor="end" font-size="24" font-weight="bold" fill="#1b2a41">ت9</text>
+<polygon points="895,780 965,930 825,930" fill="#d64545" stroke="#1b2a41" stroke-width="3"/>
+<path d="M 895 930 q 22 18 0 36 q -22 18 0 36" fill="none" stroke="#1b2a41" stroke-width="3"/>
+<polygon points="883,941 907,955 907,941 883,955" fill="#1b2a41"/>
+<polygon points="883,977 907,991 907,977 883,991" fill="#1b2a41"/>
+<text x="895" y="1030" text-anchor="middle" font-size="26" font-weight="bold" fill="#0f7b6c">تطير</text>
+<rect x="528" y="738" width="234" height="314" rx="14" fill="#f7f5ef" stroke="#1b2a41" stroke-width="2"/>
+<text x="742" y="772" text-anchor="end" font-size="24" font-weight="bold" fill="#1b2a41">ت10</text>
+<polygon points="645,780 707,855 645,930 583,855" fill="#e8b923" stroke="#1b2a41" stroke-width="3"/>
+<text x="645" y="1030" text-anchor="middle" font-size="26" font-weight="bold" fill="#b23a3a">لا تطير</text>
+<rect x="278" y="738" width="234" height="314" rx="14" fill="#f7f5ef" stroke="#1b2a41" stroke-width="2"/>
+<text x="492" y="772" text-anchor="end" font-size="24" font-weight="bold" fill="#1b2a41">ت11</text>
+<polygon points="395,780 457,855 395,930 333,855" fill="#d64545" stroke="#1b2a41" stroke-width="3"/>
+<line x1="364" y1="817" x2="426" y2="817" stroke="#ffffff" stroke-width="7"/>
+<line x1="333" y1="855" x2="457" y2="855" stroke="#ffffff" stroke-width="7"/>
+<line x1="364" y1="892" x2="426" y2="892" stroke="#ffffff" stroke-width="7"/>
+<path d="M 395 930 q 22 18 0 36 q -22 18 0 36" fill="none" stroke="#1b2a41" stroke-width="3"/>
+<polygon points="383,941 407,955 407,941 383,955" fill="#1b2a41"/>
+<polygon points="383,977 407,991 407,977 383,991" fill="#1b2a41"/>
+<text x="395" y="1030" text-anchor="middle" font-size="26" font-weight="bold" fill="#0f7b6c">تطير</text>
+<rect x="28" y="738" width="234" height="314" rx="14" fill="#f7f5ef" stroke="#1b2a41" stroke-width="2"/>
+<text x="242" y="772" text-anchor="end" font-size="24" font-weight="bold" fill="#1b2a41">ت12</text>
+<polygon points="145,780 215,930 75,930" fill="#d64545" stroke="#1b2a41" stroke-width="3"/>
+<line x1="122" y1="830" x2="168" y2="830" stroke="#ffffff" stroke-width="7"/>
+<line x1="98" y1="880" x2="192" y2="880" stroke="#ffffff" stroke-width="7"/>
+<path d="M 145 930 q 22 18 0 36 q -22 18 0 36" fill="none" stroke="#1b2a41" stroke-width="3"/>
+<polygon points="133,941 157,955 157,941 133,955" fill="#1b2a41"/>
+<polygon points="133,977 157,991 157,977 133,991" fill="#1b2a41"/>
+<text x="145" y="1030" text-anchor="middle" font-size="26" font-weight="bold" fill="#0f7b6c">تطير</text>
+</svg>

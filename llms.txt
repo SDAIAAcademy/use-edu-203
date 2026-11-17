@@ -1,0 +1,37 @@
+# الإلمام بالذكاء الاصطناعي لمعلمي المدارس
+
+> تدرّس في مادتك درسًا يفهم فيه طلابك كيف يتعلم الذكاء الاصطناعي وكيف يخطئ وكيف يُتحقق منه، وتحمي بياناتهم، وتشرح قواعد الصف لأسرهم. مقرر من أكاديمية سدايا، الرمز USE-EDU-203، الإصدار 2027.1.0، بالعربية.
+
+كل شريحة عنوان مثل "#### [day1#slide-id] العنوان": استشهد بالشرائح بهذا المعرّف، وكل استشهاد رابط (slides/day1.html#slide-id). هذه الملفات هي ما يراه المشارك: لا ملاحظات المدرّب فيها ولا مفاتيح الإجابة.
+
+## المقرر
+
+- [صفحة المقرر](https://sdaiaacademy.github.io/use-edu-203/index.md): نظرة عامة ونواتج التعلم والجدول والمختبرات؛ الصفحة نفسها https://sdaiaacademy.github.io/use-edu-203/index.html
+- [المقرر كاملًا](https://sdaiaacademy.github.io/use-edu-203/llms-full.txt): كل وحدة وجلسة وشريحة في ملف واحد، نحو 16,769 من الوحدات النصية
+- [أسئلة التدريب](https://sdaiaacademy.github.io/use-edu-203/practice.html): أسئلة تختبر بها نفسك، مع تعليل بعد كل إجابة
+
+## الشرائح
+
+- [الجلسة 1: الأطر، وكيف يتعلم الذكاء الاصطناعي](https://sdaiaacademy.github.io/use-edu-203/slides/session1.md): ما الإلمام بالذكاء الاصطناعي، ثم نشاطان تنفذهما كما ينفذهما طلابك: لعبة تصنيف دون حاسوب، ومصنِّف تدرّبه ثم تُفشله؛ الجلسات: الأطر: الإلمام بالذكاء الاصطناعي ليس استخدام الأدوات، الصفوف الأولية: لعبة تصنيف دون حاسوب، الصفوف العليا: درّب مصنِّفًا ثم أفشِله؛ الصفحة: https://sdaiaacademy.github.io/use-edu-203/slides/session1.html؛ نحو 5,144 من الوحدات النصية
+- [الجلسة 2: التحقق، ثم درس في مادتك](https://sdaiaacademy.github.io/use-edu-203/slides/session2.md): تتحقق من روبوت محادثة كما سيتحقق طلاب المرحلة الثانوية، وتكشف التحيز والوسائط الاصطناعية، ثم تخطط درسًا يراجعه معلم مادة أخرى؛ الجلسات: المرحلة الثانوية: تحقق من روبوت محادثة، التحيز والوسائط الاصطناعية، خطة درس في مادتك؛ الصفحة: https://sdaiaacademy.github.io/use-edu-203/slides/session2.html؛ نحو 5,166 من الوحدات النصية
+- [الجلسة 3: حماية الطلاب، والأسر، والدرس التجريبي](https://sdaiaacademy.github.io/use-edu-203/slides/session3.md): تطبق قواعد الحماية على مواقف صفية، وتكتب إلى الأسر بلغة واضحة، ثم تؤدي الاختبار القصير وتستعد لتدريس درسك؛ الجلسات: حماية الطلاب: البيانات والأدوات والصور، الأسر: رسالة واضحة عن قواعد الصف، الاختبار القصير والدرس التجريبي؛ الصفحة: https://sdaiaacademy.github.io/use-edu-203/slides/session3.html؛ نحو 4,739 من الوحدات النصية
+- [المشروع الختامي: مراجعة الدرس التجريبي](https://sdaiaacademy.github.io/use-edu-203/slides/capstone.md): بعد تدريس درسك خلال ثلاثة أسابيع: مراجعة عن بعد للخطة والملاحظات مجهولة الهوية والخطة المعدلة، ثماني دقائق لكل معلم؛ الصفحة: https://sdaiaacademy.github.io/use-edu-203/slides/capstone.html؛ نحو 1,159 من الوحدات النصية
+
+## المختبرات
+
+- [المختبر 1.1: خريطة الكفاءات](https://sdaiaacademy.github.io/use-edu-203/labs/D1_1_competence_map.md): الجلسة 1، الجزء 1، 25 دقيقة؛ الصفحة: https://sdaiaacademy.github.io/use-edu-203/labs/D1_1_competence_map.html
+- [المختبر 1.2: لعبة الطائرات الورقية](https://sdaiaacademy.github.io/use-edu-203/labs/D1_2_unplugged_sorting.md): الجلسة 1، الجزء 2، 30 دقيقة؛ الصفحة: https://sdaiaacademy.github.io/use-edu-203/labs/D1_2_unplugged_sorting.html
+- [المختبر 1.3: درّب مصنِّف اللافتات ثم أفشِله](https://sdaiaacademy.github.io/use-edu-203/labs/D1_3_train_break_classifier.md): الجلسة 1، الجزء 3، 35 دقيقة؛ الصفحة: https://sdaiaacademy.github.io/use-edu-203/labs/D1_3_train_break_classifier.html
+- [المختبر 2.1: عشرة أسئلة في المادة](https://sdaiaacademy.github.io/use-edu-203/labs/D2_1_fact_check_chatbot.md): الجلسة 2، الجزء 1، 35 دقيقة؛ الصفحة: https://sdaiaacademy.github.io/use-edu-203/labs/D2_1_fact_check_chatbot.html
+- [المختبر 2.2: عُدَّ الانحياز وتحقق من الوسائط](https://sdaiaacademy.github.io/use-edu-203/labs/D2_2_bias_synthetic_media.md): الجلسة 2، الجزء 2، 25 دقيقة؛ الصفحة: https://sdaiaacademy.github.io/use-edu-203/labs/D2_2_bias_synthetic_media.html
+- [المختبر 2.3: خطة الدرس ومراجعة الزميل](https://sdaiaacademy.github.io/use-edu-203/labs/D2_3_lesson_plan.md): الجلسة 2، الجزء 3، 35 دقيقة؛ الصفحة: https://sdaiaacademy.github.io/use-edu-203/labs/D2_3_lesson_plan.html
+- [المختبر 3.1: عيادة حماية الطلاب](https://sdaiaacademy.github.io/use-edu-203/labs/D3_1_safeguarding_clinic.md): الجلسة 3، الجزء 1، 30 دقيقة؛ الصفحة: https://sdaiaacademy.github.io/use-edu-203/labs/D3_1_safeguarding_clinic.html
+- [المختبر 3.2: رسالة إلى الأسر](https://sdaiaacademy.github.io/use-edu-203/labs/D3_2_family_letter.md): الجلسة 3، الجزء 2، 25 دقيقة؛ الصفحة: https://sdaiaacademy.github.io/use-edu-203/labs/D3_2_family_letter.html
+
+## ملفات السياق
+
+- [context/course.md](https://sdaiaacademy.github.io/use-edu-203/context/course.md): المقرر كاملًا، لمساعد يقبل ملفًا مرفقًا، نحو 16,769 من الوحدات النصية
+- [context/session1.md](https://sdaiaacademy.github.io/use-edu-203/context/session1.md): الجلسة 1، نحو 5,144 من الوحدات النصية
+- [context/session2.md](https://sdaiaacademy.github.io/use-edu-203/context/session2.md): الجلسة 2، نحو 5,166 من الوحدات النصية
+- [context/session3.md](https://sdaiaacademy.github.io/use-edu-203/context/session3.md): الجلسة 3، نحو 4,739 من الوحدات النصية
+- [context/capstone.md](https://sdaiaacademy.github.io/use-edu-203/context/capstone.md): المشروع الختامي، نحو 1,159 من الوحدات النصية
