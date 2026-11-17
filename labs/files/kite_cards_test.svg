@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 790 750" width="790" height="750" font-family="sans-serif">
+<title>بطاقات الاختبار: 6 بطاقة طائرات ورقية</title>
+<rect width="790" height="750" fill="#ffffff"/>
+<text x="395.0" y="44" text-anchor="middle" font-size="30" font-weight="bold" fill="#1b2a41">بطاقات الاختبار</text>
+<rect x="528" y="78" width="234" height="314" rx="14" fill="#f7f5ef" stroke="#1b2a41" stroke-width="2"/>
+<text x="742" y="112" text-anchor="end" font-size="24" font-weight="bold" fill="#1b2a41">خ1</text>
+<polygon points="645,120 707,195 645,270 583,195" fill="#d64545" stroke="#1b2a41" stroke-width="3"/>
+<path d="M 645 270 q 22 18 0 36 q -22 18 0 36" fill="none" stroke="#1b2a41" stroke-width="3"/>
+<polygon points="633,281 657,295 657,281 633,295" fill="#1b2a41"/>
+<polygon points="633,317 657,331 657,317 633,331" fill="#1b2a41"/>
+<text x="645" y="370" text-anchor="middle" font-size="26" font-weight="bold" fill="#6b7280">؟</text>
+<rect x="278" y="78" width="234" height="314" rx="14" fill="#f7f5ef" stroke="#1b2a41" stroke-width="2"/>
+<text x="492" y="112" text-anchor="end" font-size="24" font-weight="bold" fill="#1b2a41">خ2</text>
+<polygon points="395,120 465,270 325,270" fill="#2f6fd0" stroke="#1b2a41" stroke-width="3"/>
+<line x1="372" y1="170" x2="418" y2="170" stroke="#ffffff" stroke-width="7"/>
+<line x1="348" y1="220" x2="442" y2="220" stroke="#ffffff" stroke-width="7"/>
+<path d="M 395 270 q 22 18 0 36 q -22 18 0 36" fill="none" stroke="#1b2a41" stroke-width="3"/>
+<polygon points="383,281 407,295 407,281 383,295" fill="#1b2a41"/>
+<polygon points="383,317 407,331 407,317 383,331" fill="#1b2a41"/>
+<text x="395" y="370" text-anchor="middle" font-size="26" font-weight="bold" fill="#6b7280">؟</text>
+<rect x="28" y="78" width="234" height="314" rx="14" fill="#f7f5ef" stroke="#1b2a41" stroke-width="2"/>
+<text x="242" y="112" text-anchor="end" font-size="24" font-weight="bold" fill="#1b2a41">خ3</text>
+<polygon points="145,120 215,270 75,270" fill="#d64545" stroke="#1b2a41" stroke-width="3"/>
+<line x1="122" y1="170" x2="168" y2="170" stroke="#ffffff" stroke-width="7"/>
+<line x1="98" y1="220" x2="192" y2="220" stroke="#ffffff" stroke-width="7"/>
+<text x="145" y="370" text-anchor="middle" font-size="26" font-weight="bold" fill="#6b7280">؟</text>
+<rect x="528" y="408" width="234" height="314" rx="14" fill="#f7f5ef" stroke="#1b2a41" stroke-width="2"/>
+<text x="742" y="442" text-anchor="end" font-size="24" font-weight="bold" fill="#1b2a41">خ4</text>
+<polygon points="645,450 707,525 645,600 583,525" fill="#e8b923" stroke="#1b2a41" stroke-width="3"/>
+<path d="M 645 600 q 22 18 0 36 q -22 18 0 36" fill="none" stroke="#1b2a41" stroke-width="3"/>
+<polygon points="633,611 657,625 657,611 633,625" fill="#1b2a41"/>
+<polygon points="633,647 657,661 657,647 633,661" fill="#1b2a41"/>
+<text x="645" y="700" text-anchor="middle" font-size="26" font-weight="bold" fill="#6b7280">؟</text>
+<rect x="278" y="408" width="234" height="314" rx="14" fill="#f7f5ef" stroke="#1b2a41" stroke-width="2"/>
+<text x="492" y="442" text-anchor="end" font-size="24" font-weight="bold" fill="#1b2a41">خ5</text>
+<polygon points="395,450 457,525 395,600 333,525" fill="#d64545" stroke="#1b2a41" stroke-width="3"/>
+<text x="395" y="700" text-anchor="middle" font-size="26" font-weight="bold" fill="#6b7280">؟</text>
+<rect x="28" y="408" width="234" height="314" rx="14" fill="#f7f5ef" stroke="#1b2a41" stroke-width="2"/>
+<text x="242" y="442" text-anchor="end" font-size="24" font-weight="bold" fill="#1b2a41">خ6</text>
+<polygon points="145,450 207,525 145,600 83,525" fill="#2f6fd0" stroke="#1b2a41" stroke-width="3"/>
+<line x1="114" y1="487" x2="176" y2="487" stroke="#ffffff" stroke-width="7"/>
+<line x1="83" y1="525" x2="207" y2="525" stroke="#ffffff" stroke-width="7"/>
+<line x1="114" y1="562" x2="176" y2="562" stroke="#ffffff" stroke-width="7"/>
+<text x="145" y="700" text-anchor="middle" font-size="26" font-weight="bold" fill="#6b7280">؟</text>
+</svg>
