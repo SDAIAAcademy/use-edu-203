@@ -2,7 +2,7 @@
 # requires-python = ">=3.11"
 # dependencies = []
 # ///
-"""Writes the synthetic file pack of USE-EDU-203 (Al-Sana Schools Complex, the assistant Siraj).
+"""Writes the synthetic file pack of USE-EDU-203 (Al-Sana Schools Complex, the assistant Yaraa).
 
 Run from the course root:  uv run labs/_tools/prepare_files.py
 Standard library only, a fixed seed, the same output on every run. Everything is invented.
@@ -241,15 +241,15 @@ def signs_pack() -> None:
     (FILES / "signs_preview.png").write_bytes(png(sheet))
 
 
-# ------------------------------------------------------------------ lab 2.1: Siraj's ten answers
+# ------------------------------------------------------------------ lab 2.1: Yaraa's ten answers
 
 def fact_check() -> dict:
-    lines = ["إجابات المساعد «سِراج» عن عشرة أسئلة في المواد",
-             "سجل مكتوب للمقرر: «سِراج» هنا نموذج بديل مكتوب وليس نموذجًا لغويًّا، وفي إجاباته أخطاء مزروعة عمدًا.",
+    lines = ["إجابات المساعد «يَراع» عن عشرة أسئلة في المواد",
+             "سجل مكتوب للمقرر: «يَراع» هنا نموذج بديل مكتوب وليس نموذجًا لغويًّا، وفي إجاباته أخطاء مزروعة عمدًا.",
              "تحقق من كل إجابة ببطاقة المصادر، لا بمساعد آخر.", ""]
     for n, subject, q, a, _ok, _kind, _ev in T.SIRAJ:
-        lines += [f"السؤال {n} ({subject})", f"المعلمة: {q}", f"سِراج: {a}", ""]
-    write(FILES / "siraj_answers.txt", "\n".join(lines))
+        lines += [f"السؤال {n} ({subject})", f"المعلمة: {q}", f"يَراع: {a}", ""]
+    write(FILES / "yaraa_answers.txt", "\n".join(lines))
     write(FILES / "source_card.txt", T.SOURCE_CARD)
     write(FILES / "error_kinds.txt", T.FACT_KINDS)
     head = ["السؤال", "الحكم (سليمة أو معيبة)", "نوع الخطأ (أ ب ج د هـ)", "الدليل"]
@@ -330,8 +330,8 @@ def clinic() -> dict:
 
 def letter_and_trial() -> None:
     write(FILES / "letter_brief.txt", T.LETTER_BRIEF)
-    write(FILES / "letter_draft_siraj.txt",
-          "مسودة كتبها «سِراج» (نموذج بديل مكتوب للمقرر، وفيها خمسة أخطاء مزروعة). لا تُرسل كما هي.\n\n" + T.LETTER_DRAFT)
+    write(FILES / "letter_draft_yaraa.txt",
+          "مسودة كتبها «يَراع» (نموذج بديل مكتوب للمقرر، وفيها خمسة أخطاء مزروعة). لا تُرسل كما هي.\n\n" + T.LETTER_DRAFT)
     write(FILES / "letter_checklist.txt", T.LETTER_CHECKLIST)
     write(SOL / "letter_reference.txt", T.LETTER_REFERENCE)
     write(FILES / "trial_lesson_notes_template.txt", T.TRIAL_NOTES)

@@ -126,7 +126,7 @@ def score_fact_check(path: Path) -> tuple[int, int, list[str]]:
     return got, 15, notes
 
 
-def recheck_siraj() -> dict:
+def recheck_yaraa() -> dict:
     """Recomputes, independently of the key, the three answers that arithmetic can settle."""
     return {"q1": round(240 * 15 / 100), "q5_factors": [d for d in range(2, 91) if 91 % d == 0], "q7": 13}
 

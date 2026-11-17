@@ -6,7 +6,7 @@
 
   uv run labs/solutions/run_all.py
 
-Nothing here calls a language model. Siraj's answers, the image tallies and the drafted letter are
+Nothing here calls a language model. Yaraa's answers, the image tallies and the drafted letter are
 scripted stand-ins written for the course; the classifier of lab 1.3 is a transparent stand-in too.
 """
 from __future__ import annotations
@@ -60,7 +60,7 @@ def main() -> None:
     # 2.1 the key, and the three answers arithmetic can settle
     expect("2.1 reference sheet", K.score_fact_check(S / "fact_check_reference.csv")[:2], (15, 15))
     expect("2.1 blank sheet", K.score_fact_check(F / "fact_check_sheet.csv")[0], 0)
-    re = K.recheck_siraj()
+    re = K.recheck_yaraa()
     expect("2.1 15% of 240", re["q1"], 36)
     expect("2.1 divisors of 91", re["q5_factors"], [7, 13])
     flawed = sorted(n for n, v in K.KEY["fact_check"].items() if not v["sound"])
@@ -90,7 +90,7 @@ def main() -> None:
     expect("3.2 reference letter", K.check_letter(S / "letter_reference.txt"), [])
     stats = K.letter_stats((S / "letter_reference.txt").read_text(encoding="utf-8"))
     print("ok    3.2 reference letter:", stats)
-    draft = K.check_letter(F / "letter_draft_siraj.txt")
+    draft = K.check_letter(F / "letter_draft_yaraa.txt")
     for d in draft:
         print("      drafted letter:", d)
     expect("3.2 defects found in the drafted letter", len(draft), 7)
